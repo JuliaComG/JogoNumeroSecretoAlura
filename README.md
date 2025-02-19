@@ -6,7 +6,6 @@ Este é um jogo simples onde o jogador tenta adivinhar um número secreto gerado
 
 <p align="center">
   <a href="#-tecnologias-utilizadas">🛠 Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias-utilizadas">🧠 Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://juliacomg.github.io/JogoNumeroSecretoAlura/">👆🏻 Acesse Aqui</a>
 </p>
 
